@@ -1,0 +1,12 @@
+# Python environments and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local trained weights can be large/private
+models/*.pt
+models/*.onnx
+
+# Editor settings
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+# YOLOv10 inference (includes PyTorch as a dependency)
+ultralytics>=8.3.0
+
+# Webcam capture and drawing bounding boxes
+opencv-python>=4.10.0
